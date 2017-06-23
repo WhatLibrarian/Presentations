@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Reading List</title>
+
+<style type="text/css">
+.items {display:table;list-style:none;margin:0;padding:0;border-spacing:5px;}
+.items li {display:table-cell;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;border:1px solid #ccc;padding:5px;margin:0 0 10px 0;}
+.items li img {display:table-cell;vertical-align:top; width:130px; height:190px;}
+</style>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+ 
+<script type="text/javascript"> 
+
+$(document).ready(function() {	
+
+//source file is https://docs.google.com/spreadsheet/ccc?key=0Ak0qDiMLT3XddHlNempadUs1djdkQ0tFLWF6ci1rUUE https://docs.google.com/spreadsheet/ccc?key=1A9O55pixJ7d0-3SmmzJXlo3uVh3JZSmtILjIdl4Z8U0
+
+$(function listBooks() {	
+$.getJSON( "https://spreadsheets.google.com/feeds/list/1A9O55pixJ7d0-3SmmzJXlo3uVh3JZSmtILjIdl4Z8U0/od6/public/values?alt=json-in-script&callback=?",
+	function (data) {	
+		$('div#book-list').append('<ul class="items"></ul>');
+		$.each(data.feed.entry, function(i,entry) {	
+			var item = '<span style="display:none">' + entry.id.$t + '</span>';	
+			item += '<img src="http://covers.openlibrary.org/b/isbn/' + entry.gsx$isbn.$t + '-M.jpg"/>';
+			item += '<span class="meta"><a href="http://whatcom-primo.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?fn=search&ct=search&initialSearch=true&mode=Basic&tab=default_tab&indx=1&dum=true&srt=rank&vid=WHATCOM&frbg=&tb=t&vl%28freeText0%29=' + entry.gsx$isbn.$t + '&scp.scps=scope%3A%28WHATCOM_ALMA%29%2Cscope%3A%28WHATCOM_CR%29%2Cprimo_central_multiple_fe">' + entry.title.$t + '</a>';	
+			item += '<br/>Call Number: <br/> ' + entry.gsx$callnumber.$t;	
+			if (entry.gsx$notes.$t) {	
+				item += '<br/>Description: ' + entry.gsx$notes.$t;	
+			}	
+			$('.items').append('<li>' + item + '</span></li>');	
+			});
+		});
+	});
+});
+</script>
+
+</head> 
+
+
+<body>
+	<h1>Reading List</h1> 
+	<div id="book-list"  style="width: 100%; overflow-x: auto; overflow-y: hidden;"> </div> 
+</body>
+</html>
+
+
+
+<!-- old verticle CSS
+.items {display:table;list-style:none;margin:0;padding:0;border-spacing:5px;}
+.items li {display:table-row;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;border:1px solid #ccc;padding:5px;margin:0 0 10px 0;}
+.items li img {display:table-cell;vertical-align:top;}
+.items li span.meta {display:table-cell;vertical-align:top;margin:0;padding:0 0 0 5px;}
+.items li {margin:0 0 5px 0;}
+-->
+
