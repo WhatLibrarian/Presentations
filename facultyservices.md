@@ -9,10 +9,10 @@
 * Access to academic eBooks: Complete full-text keyword searchable academic and scholarly monographs.  Most can be searched through the OneSearch interface.
 
 * Information Literacy classroom support: Bring your class to the library instruction room or have a Librarian come to your classroom for research assistance during Topic Selection or the lead a classroom exercise in:
-* Research techniques
-* Citation management
-* Source evaluation
-* Plus more…
+    * Research techniques
+    * Citation management
+    * Source evaluation
+    * Plus more…
 
 Canvas Collaboration: The Library has hundreds of streaming video and audio, scholarly eBooks and journals.  Did you know that librarians are available to be part of online discussions, to create online modules for Canvas in Information Literacy catagories and to provide instructions for linking to a variety of resources?
 
