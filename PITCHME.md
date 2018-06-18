@@ -96,26 +96,19 @@ When applying for the [professional development grant](https://www.sos.wa.gov/li
 
 # How did my participation in the 2018 Festival of Learning address the LSTA priorities I chose?
 ---
-
-# First Example
+First Example
 ## Open Source Technologies
-
 Our library continues to develop our skills in using platform neutral technologies that exemplify out committments to accessibility and diversity of learners. Using open source technologies in combination with open licensing standards demonstrates that we:
 1. Have the technical capabilities to expand services for learning and access to information
 2. Be able to target services to diverse communities including those with low-bandwidth
-
 [WordPress CMS](https://wordpress.org) | [Pressbooks](https://pressbooks.com) | [Grav CMS](https://getgrav.org/) | [Markdown](https://en.wikipedia.org/wiki/Markdown) | [Git](https://git-scm.com/)
 ---
-
-# Second Example
+Second Example
 ## Universal Design for Learning
-
 ---
-
-# Third Example
+Third Example
 ## Empathy and compassion should be infused into our teaching methods regardless of the technology or materials.
 ---
-
 # "the outcomes" 
 How will this directly impact my end users.  
 Explain the outcomes and their potential impact on service for my customers. 
