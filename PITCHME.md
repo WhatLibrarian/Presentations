@@ -3,23 +3,17 @@
 # Festival of Learning 2018
 ## Vancouver, BC
 [#fol18](https://twitter.com/search?q=%23FoL18&src=savs)
-
 Prepared for Washington State Library
-
-
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"Presentation on the Festival of Learning 2018"</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">R. M. McKernan</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ---
 
-# Festival Theme
+Festival Theme
 ## Higher Education: Handle with Care
-
 How does care manifest or fail to manifest in our practices, policies, structures, spaces, technologies and pedagogies? How could we be better caretakers and caregivers in the context of post-secondary education and in service of student learning?
-
 ![boat gas house](https://whatlibrarian.github.io/docs/media/northshoregas.jpg)
 A three day conference in beautiful Vancouver, BC.
 
 ---
-
 # Keynote
 [Jesse Strommel](https://twitter.com/Jessifer), Executive Director [UMW Division of Teaching & Learning Technologies](https://twitter.com/umwdtlt) and founder of [@HybridPed](https://twitter.com/HybridPed).
 
@@ -29,13 +23,13 @@ An open-access journal of learning, teaching, and technology.
 ---
 He spoke on the topic of compassion & respect.  
 
-His speech touched my heart. 
+His speech touched my heart. These are his slides:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/JNGvNTGh7uqdTL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jessestommel/centering-teaching-the-human-work-of-higher-education" title="Centering Teaching: the Human Work of Higher Education" target="_blank">Centering Teaching: the Human Work of Higher Education</a> </strong> from <strong><a href="https://www.slideshare.net/jessestommel" target="_blank">Jesse Stommel</a></strong> </div>
 
 ---
-# Concept: Scaffolding
-♥ A structure around the outside of a building. Start anywhere and end anywhere. Infinite points of entry. ♥
+## Concept: Scaffolding
+♥ A structure around the outside of a building. Infinite points of entry. ♥
 * Not a series of discrete steps that assumes everyone starts and ends up at the same place.
 * Inspired by [freire](https://en.wikipedia.org/wiki/Paulo_Freire#Theoretical_contributions) and his use of long strings of clauses.
 
@@ -45,7 +39,6 @@ Most higher ed teaching practices are unexamined, because teachers are rarely gi
 1.	Start by trusting students
 2.	Realize fairness is not an excuse for lack of empathy.
 ---
-
 # The Sessions
 ---
 ## Diversity, Adversity, Perversity and the University: Opportunities for Embedding & Celebratin Diversity in Class Maters
