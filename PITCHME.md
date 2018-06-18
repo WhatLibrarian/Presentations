@@ -9,10 +9,12 @@ Prepared for Washington State Library
 Festival Theme
 ## Higher Education: Handle with Care
 How does care manifest or fail to manifest in our practices, policies, structures, spaces, technologies and pedagogies? How could we be better caretakers and caregivers in the context of post-secondary education and in service of student learning?
+---
+
 ![boat gas house](https://whatlibrarian.github.io/docs/media/northshoregas.jpg)
 A three day conference in beautiful Vancouver, BC.
-
 ---
+
 # Keynote
 [Jesse Strommel](https://twitter.com/Jessifer), Executive Director [UMW Division of Teaching & Learning Technologies](https://twitter.com/umwdtlt) and founder of [@HybridPed](https://twitter.com/HybridPed).
 
@@ -28,9 +30,11 @@ His speech touched my heart. These are his slides:
 
 ---
 ## Concept: Scaffolding
-♥ A structure around the outside of a building. Infinite points of entry. ♥
+♥ A structure around the outside. Infinite points of entry. ♥
+
 Not a series of discrete steps that assumes everyone starts and ends up at the same place.
 Any discussion of pedagogy needs to include a critical examination of our tools, what they afford, who they exclude…
+
 Most higher ed teaching practices are unexamined, because teachers are rarely given space to think…
 1.	Start by trusting students
 2.	Realize fairness is not an excuse for lack of empathy.
@@ -39,19 +43,25 @@ Most higher ed teaching practices are unexamined, because teachers are rarely gi
 ---
 **Diversity, Adversity, Perversity and the University: Opportunities for Embedding & Celebratin Diversity in Class Maters**
 Presenters: [David Geary](https://twitter.com/gearsgeary) & [Ki Wight](https://ca.linkedin.com/in/kiwight)
+
 **Key Takeaway**: Do a diversity audit on images, videos and other class materials that you use your day-to-day in classroom. Images and videos used in classroom presentations can promote diversity (racial, sexual, gender, ability) without necessarily being the subject of the course.
+
 **Recommended Reading** Audrey Watters [Ed-Tech's Inequalities](http://hackeducation.com/2015/04/08/inequalities)
 ---
+
 ## Universal Design for Learning
-Presenters: Dr. Gloria Ramirez & Dr. Nan Stevens 
-**Key Takeaway:** [Shelley Moore: Transforming Inclusive Education](https://blogsomemoore.com/2013/11/05/inclusion-its-critical/) 
+[Shelley Moore: Transforming Inclusive Education](https://blogsomemoore.com/2013/11/05/inclusion-its-critical/) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RYtUlU8MjlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Key Resource:** [Universal Design for Learning Guidelines](http://udlguidelines.cast.org/?utm_medium=web&utm_campaign=none&utm_source=udlcenter&utm_content=site-banner)
 ---
-#My AHA Moment
+
+## My AHA Moment
+
 **Session:** Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS - Inside or Outside of your LMS
+
 **Presenter:** [Paul Hibbitts](http://hibbittsdesign.org/)
+
 Grav leverages forward-looking standards such as Markdown for platform-independent content and enables Git-based collaborative workflows, both which naturally also support the 5 Rs of Open Educational Resources.
 ---
 
@@ -70,7 +80,7 @@ My first forey into Open was through open source projects such as WordPress. Gra
 ![image of excited human](https://www.drupal.org/files/x-all-the-things-template.png)
 ---
 
-# Session: Making Pressbooks Better
+## Session: Making Pressbooks Better
 Presenter: [Zoe Wake Hyde](https://twitter.com/zwhnz)
 
 Disclaimer - Whatcom Community Colleges uses Pressbooks to deliver our [Open Textbooks](http://librarywp.whatcom.edu/press) to our students.  This was a roadmap update.
@@ -89,7 +99,7 @@ When applying for the [professional development grant](https://www.sos.wa.gov/li
 5. Target library and information services to the underserved
 ---
 
-# How did my participation in the 2018 Festival of Learning address the LSTA priorities I chose?
+## How did my participation in the 2018 Festival of Learning address the LSTA priorities I chose?
 ---
 
 First Example
