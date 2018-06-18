@@ -132,6 +132,7 @@ How will this directly impact my end users.
 Explain the outcomes and their potential impact on service for my customers. 
 
 ![image](https://whatlibrarian.github.io/docs/screenshot-www.google.com-2018-06-12-14-53-49.png)
+![screenshot](https://github.com/WhatLibrarian/Presentations/blob/master/screenshot-www.google.com-2018-06-12-14-53-49.png)
 ___
 
 ![13th](https://upload.wikimedia.org/wikipedia/commons/f/fb/13NumberThirteenInCircle.png)
