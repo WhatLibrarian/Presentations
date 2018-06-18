@@ -1,5 +1,4 @@
 <!-- $theme: default -->
-
 # Festival of Learning 2018
 ## Vancouver, BC
 [#fol18](https://twitter.com/search?q=%23FoL18&src=savs)
@@ -30,41 +29,37 @@ His speech touched my heart. These are his slides:
 ---
 ## Concept: Scaffolding
 ♥ A structure around the outside of a building. Infinite points of entry. ♥
-* Not a series of discrete steps that assumes everyone starts and ends up at the same place.
-* Inspired by [freire](https://en.wikipedia.org/wiki/Paulo_Freire#Theoretical_contributions) and his use of long strings of clauses.
-
+Not a series of discrete steps that assumes everyone starts and ends up at the same place.
 Any discussion of pedagogy needs to include a critical examination of our tools, what they afford, who they exclude…
-
 Most higher ed teaching practices are unexamined, because teachers are rarely given space to think…
 1.	Start by trusting students
 2.	Realize fairness is not an excuse for lack of empathy.
 ---
 # The Sessions
 ---
-## Diversity, Adversity, Perversity and the University: Opportunities for Embedding & Celebratin Diversity in Class Maters
+**Diversity, Adversity, Perversity and the University: Opportunities for Embedding & Celebratin Diversity in Class Maters**
 Presenters: [David Geary](https://twitter.com/gearsgeary) & [Ki Wight](https://ca.linkedin.com/in/kiwight)
-
 **Key Takeaway**: Do a diversity audit on images, videos and other class materials that you use your day-to-day in classroom. Images and videos used in classroom presentations can promote diversity (racial, sexual, gender, ability) without necessarily being the subject of the course.
-
 **Recommended Reading** Audrey Watters [Ed-Tech's Inequalities](http://hackeducation.com/2015/04/08/inequalities)
 ---
-# Universal Design for Learning
+## Universal Design for Learning
 Presenters: Dr. Gloria Ramirez & Dr. Nan Stevens 
-
 **Key Takeaway:** [Shelley Moore: Transforming Inclusive Education](https://blogsomemoore.com/2013/11/05/inclusion-its-critical/) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RYtUlU8MjlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Key Resource:** [Universal Design for Learning Guidelines](http://udlguidelines.cast.org/?utm_medium=web&utm_campaign=none&utm_source=udlcenter&utm_content=site-banner)
 ---
-# My AHA Moment
-## Session: Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS - Inside or Outside of your LMS
+#My AHA Moment
+**Session:** Delivering a Better Experience by Using the Open, Collaborative and Flexible Grav CMS - Inside or Outside of your LMS
 **Presenter:** [Paul Hibbitts](http://hibbittsdesign.org/)
-Grav leverages forward-looking standards such as Markdown for platform-independent content and enables Git-based collaborative workflows, both which naturally also supports the 5 Rs of Open Educational Resources.
+Grav leverages forward-looking standards such as Markdown for platform-independent content and enables Git-based collaborative workflows, both which naturally also support the 5 Rs of Open Educational Resources.
 ---
+
 ![Grav CMS logo](https://getgrav-grav.netdna-ssl.com/user/pages/03.blog/new-logo/grav-logo.png?g-3f3de419)
 
 My first forey into Open was through open source projects such as WordPress. Grav is a headless CMS that can be incorporated into your institutional CMS as well. Never be trapped into a proprietary ecosystem if you are capable.  Grav gives you the capabilities to achieve this.
 ---
+
 # What is Grav?
 * Modern flat file CMS
 	* Files based also supports version control.
@@ -74,6 +69,7 @@ My first forey into Open was through open source projects such as WordPress. Gra
 **Conclusion**  Grav is all the things! 
 ![image of excited human](https://www.drupal.org/files/x-all-the-things-template.png)
 ---
+
 # Session: Making Pressbooks Better
 Presenter: [Zoe Wake Hyde](https://twitter.com/zwhnz)
 
@@ -83,6 +79,7 @@ Disclaimer - Whatcom Community Colleges uses Pressbooks to deliver our [Open Tex
 
 ♥ Open source to the rescue again ♥
 ---
+
 When applying for the [professional development grant](https://www.sos.wa.gov/library/libraries/grants/professional-development.aspx) I chose these priorities.  Yes all of these.  I couldn't decide.
 
 1. Expand services for learning and access to information:
@@ -90,12 +87,11 @@ When applying for the [professional development grant](https://www.sos.wa.gov/li
 3. Enhance electronic and other linkages:
 4. Target library services to diverse communities:
 5. Target library and information services to the underserved
-
-
 ---
 
 # How did my participation in the 2018 Festival of Learning address the LSTA priorities I chose?
 ---
+
 First Example
 ## Open Source Technologies
 Our library continues to develop our skills in using platform neutral technologies that exemplify out committments to accessibility and diversity of learners. Using open source technologies in combination with open licensing standards demonstrates that we:
@@ -103,12 +99,15 @@ Our library continues to develop our skills in using platform neutral technologi
 2. Be able to target services to diverse communities including those with low-bandwidth
 [WordPress CMS](https://wordpress.org) | [Pressbooks](https://pressbooks.com) | [Grav CMS](https://getgrav.org/) | [Markdown](https://en.wikipedia.org/wiki/Markdown) | [Git](https://git-scm.com/)
 ---
+
 Second Example
 ## Universal Design for Learning
 ---
+
 Third Example
 ## Empathy and compassion should be infused into our teaching methods regardless of the technology or materials.
 ---
+
 # "the outcomes" 
 How will this directly impact my end users.  
 Explain the outcomes and their potential impact on service for my customers. 
@@ -118,7 +117,6 @@ Explain the outcomes and their potential impact on service for my customers.
 
 ![13th](https://upload.wikimedia.org/wikipedia/commons/f/fb/13NumberThirteenInCircle.png)
 Briefly describe the importance of these outcomes.
-
 ---
 
 These outcomes are important because without compassion, without equity without loving human kindness we cannot learn.
