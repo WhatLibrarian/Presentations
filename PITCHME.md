@@ -19,14 +19,14 @@ A three day conference in beautiful Vancouver, BC.
 [Jesse Strommel](https://twitter.com/Jessifer), Executive Director [UMW Division of Teaching & Learning Technologies](https://twitter.com/umwdtlt) and founder of [@HybridPed](https://twitter.com/HybridPed).
 
 ![An Open Access Journal](https://i1.wp.com/hybridpedagogy.org/wp-content/uploads/2017/12/hpj-horiz-logo.png?fit=1093%2C155)
- 
+
 An open-access journal of learning, teaching, and technology.
 ---
 He spoke on the topic of compassion & respect.  
 
 His speech touched my heart. These are his slides:
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/JNGvNTGh7uqdTL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jessestommel/centering-teaching-the-human-work-of-higher-education" title="Centering Teaching: the Human Work of Higher Education" target="_blank">Centering Teaching: the Human Work of Higher Education</a> </strong> from <strong><a href="https://www.slideshare.net/jessestommel" target="_blank">Jesse Stommel</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/JNGvNTGh7uqdTL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe> <div style="margin-bottom:5px"> <strong><a href="//www.slideshare.net/jessestommel/centering-teaching-the-human-work-of-higher-education" title="Centering Teaching: the Human Work of Higher Education">Centering Teaching: the Human Work of Higher Education</a> </strong> from <strong><a href="https://www.slideshare.net/jessestommel">Jesse Stommel</a></strong>
 
 ---
 ## Concept: Scaffolding
@@ -50,7 +50,7 @@ Presenters: [David Geary](https://twitter.com/gearsgeary) & [Ki Wight](https://c
 ---
 
 ## Universal Design for Learning
-[Shelley Moore: Transforming Inclusive Education](https://blogsomemoore.com/2013/11/05/inclusion-its-critical/) 
+[Shelley Moore: Transforming Inclusive Education](https://blogsomemoore.com/2013/11/05/inclusion-its-critical/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RYtUlU8MjlY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Key Resource:** [Universal Design for Learning Guidelines](http://udlguidelines.cast.org/?utm_medium=web&utm_campaign=none&utm_source=udlcenter&utm_content=site-banner)
@@ -76,7 +76,7 @@ My first forey into Open was through open source projects such as WordPress. Gra
 	* Good for smaller sites, simplicity, portability.
 * Modular & Git Based Workflow
 
-**Conclusion**  Grav is all the things! 
+**Conclusion**  Grav is all the things!
 ![image of excited human](https://www.drupal.org/files/x-all-the-things-template.png)
 ---
 
@@ -118,9 +118,9 @@ Third Example
 ## Empathy and compassion should be infused into our teaching methods regardless of the technology or materials.
 ---
 
-# "the outcomes" 
+# "the outcomes"
 How will this directly impact my end users.  
-Explain the outcomes and their potential impact on service for my customers. 
+Explain the outcomes and their potential impact on service for my customers.
 
 ![screenshot](https://github.com/WhatLibrarian/Presentations/blob/master/screenshot-www.google.com-2018-06-12-14-53-49.png)
 ---
