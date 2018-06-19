@@ -3,6 +3,7 @@
 ## Vancouver, BC
 [#fol18](https://twitter.com/search?q=%23FoL18&src=savs)
 Prepared for Washington State Library
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">"Presentation on the Festival of Learning 2018"</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">R. M. McKernan</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ---
 
@@ -67,7 +68,7 @@ Grav leverages forward-looking standards such as Markdown for platform-independe
 
 ![Grav CMS logo](https://getgrav-grav.netdna-ssl.com/user/pages/03.blog/new-logo/grav-logo.png?g-3f3de419)
 
-My first forey into Open was through open source projects such as WordPress. Grav is a headless CMS that can be incorporated into your institutional CMS as well. Never be trapped into a proprietary ecosystem if you are capable.  Grav gives you the capabilities to achieve this.
+My first forey into Open was through open source projects such as WordPress. Grav is a headless CMS that can be incorporated into your institutional LMS as well. Never be trapped into a proprietary ecosystem if you are capable.  Grav gives you the capabilities to achieve this.
 ---
 
 # What is Grav?
@@ -94,9 +95,11 @@ When applying for the [professional development grant](https://www.sos.wa.gov/li
 
 1. Expand services for learning and access to information:
 2. Develop library services that provide all users:
-3. Enhance electronic and other linkages:
-4. Target library services to diverse communities:
-5. Target library and information services to the underserved
+3. Advance the delivery of library and information services:
+4. Provide electronic and other linkages:
+6. Target library services to diverse communities:
+7. Target library and information services to the underserved:
+
 ---
 
 ## How did my participation in the 2018 Festival of Learning address the LSTA priorities I chose?
@@ -112,10 +115,18 @@ Our library continues to develop our skills in using platform neutral technologi
 
 Second Example
 ## Universal Design for Learning
+
+Our information literacy modules are being updated with UDL as one of our guiding principles. With UDL we will be able to better expand our teaching services for learning and access to information and better serve all users. We hope these practices become ingrained in our outreach efforts especially as they pertain to underserved and diverse communities.
 ---
 
 Third Example
 ## Empathy and compassion should be infused into our teaching methods regardless of the technology or materials.
+
+This relates to the main theme of the conference. We can never forget the humanity or the purpose of our vocation. Here is a small article as an example:
+
+Melo, Marijel. [“Pedagogical Violence and the Power of Language.”](http://hybridpedagogy.org/pedagogical-violence-power-of-language/) Hybrid Pedagogy, 1 May 2018.
+
+
 ---
 
 # "the outcomes"
@@ -125,8 +136,10 @@ Explain the outcomes and their potential impact on service for my customers.
 ![screenshot](https://github.com/WhatLibrarian/Presentations/blob/master/screenshot-www.google.com-2018-06-12-14-53-49.png)
 ---
 
+The above three outcomes have reinforced and rejuvenated my commitments to openness, compassion and using solid pedagogical theory to inform my choices regarding information services to our learning community.
+---
 ![13th](https://upload.wikimedia.org/wikipedia/commons/f/fb/13NumberThirteenInCircle.png)
-Briefly describe the importance of these outcomes.
+Why are these outcomes important?
 ---
 
 These outcomes are important because without compassion, without equity without loving human kindness we cannot learn.
