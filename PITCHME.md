@@ -110,7 +110,8 @@ First Example
 Our library continues to develop our skills in using platform neutral technologies that exemplify out commitments to accessibility and diversity of learners. Using open source technologies in combination with open licensing standards demonstrates that we:
 1. Have the technical capabilities to expand services for learning and access to information
 2. Be able to target services to diverse communities including those with low-bandwidth
-[WordPress CMS](https://wordpress.org) | [Pressbooks](https://pressbooks.com) | [Grav CMS](https://getgrav.org/) | [Markdown](https://en.wikipedia.org/wiki/Markdown) | [Git](https://git-scm.com/)
+
+[WordPress](https://wordpress.org) | [Markdown](https://en.wikipedia.org/wiki/Markdown) | [Git](https://git-scm.com/)
 ---
 
 Second Example
@@ -138,7 +139,7 @@ Melo, Marijel. [“Pedagogical Violence and the Power of Language.”](http://hy
 
 The above three outcomes have reinforced and rejuvenated my commitments to openness, compassion and using solid pedagogical theory to inform my choices regarding information services to our learning community.
 ---
-![13th](https://upload.wikimedia.org/wikipedia/commons/f/fb/13NumberThirteenInCircle.png)
+![13th](/Presentations/screenshot-www.google.com-2018-06-12-14-53-49.png )
 
 Why are these outcomes important?
 ---
