@@ -141,4 +141,4 @@ Melo, Marijel. [“Pedagogical Violence and the Power of Language.”](http://hy
 The above three outcomes have reinforced and rejuvenated my commitments to openness, compassion and using solid pedagogical theory to inform my choices regarding information services to our learning community.
 
 ---
-without compassion, without equity without loving human kindness we cannot learn.
+without compassion, without equity without loving human kindness we cannot learn
