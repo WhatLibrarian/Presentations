@@ -12,9 +12,7 @@ Festival Theme
 How does care manifest or fail to manifest in our practices, policies, structures, spaces, technologies and pedagogies? How could we be better caretakers and caregivers in the context of post-secondary education and in service of student learning?
 ---
 
-![boat gas house](https://whatlibrarian.github.io/docs/media/northshoregas.jpg)
-![get gas in the river](https://github.com/WhatLibrarian/Presentations/blob/fol18/media/northshoregas.jpg)
-![third gassy try](/media/northshoregas.jpg)
+![a gas boathouse](/media/northshoregas.jpg)
 A three day conference in beautiful Vancouver, BC.
 ---
 
@@ -136,7 +134,7 @@ Melo, Marijel. [“Pedagogical Violence and the Power of Language.”](http://hy
 * How will this directly impact my end users?  
 * Explain the outcomes and their potential impact on service for my customers.
 
-![screenshot](https://github.com/WhatLibrarian/Presentations/blob/master/screenshot-www.google.com-2018-06-12-14-53-49.png)
+![screenshot of of customer versus user](/screenshot-www.google.com-2018-06-12-14-53-49.png)
 ---
 
 The above three outcomes have reinforced and rejuvenated my commitments to openness, compassion and using solid pedagogical theory to inform my choices regarding information services to our learning community.
