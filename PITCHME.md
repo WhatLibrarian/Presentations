@@ -13,6 +13,7 @@ How does care manifest or fail to manifest in our practices, policies, structure
 ---
 
 ![boat gas house](https://whatlibrarian.github.io/docs/media/northshoregas.jpg)
+![get gas in the river](https://github.com/WhatLibrarian/Presentations/blob/fol18/media/northshoregas.jpg)
 A three day conference in beautiful Vancouver, BC.
 ---
 
