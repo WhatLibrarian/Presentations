@@ -13,6 +13,7 @@ How does care manifest or fail to manifest in our practices, policies, structure
 ---
 
 ![a gas boathouse](/media/northshoregas.jpg)
+
 A three day conference in beautiful Vancouver, BC.
 ---
 
@@ -138,10 +139,6 @@ Melo, Marijel. [“Pedagogical Violence and the Power of Language.”](http://hy
 ---
 
 The above three outcomes have reinforced and rejuvenated my commitments to openness, compassion and using solid pedagogical theory to inform my choices regarding information services to our learning community.
----
-![13th](https://github.com/WhatLibrarian/Presentations/blob/fol18/screenshot-www.google.com-2018-06-12-14-53-49.png)
 
-Why are these outcomes important?
 ---
-
-These outcomes are important because without compassion, without equity without loving human kindness we cannot learn.
+without compassion, without equity without loving human kindness we cannot learn.
