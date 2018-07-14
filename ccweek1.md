@@ -3,11 +3,16 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ___
-# Introduction
-what the internet allows, copyright prevents
+# Introduction ~ What the Internet Allows, Copyright Prevents
+## Why Creative Commons
+A Summary for the Curious
 ___
+# Guiding Question
+## What was the fundamental tension the creators of Creative Commons licensing were trying to resolve.
+A Creative Commons license is a legally binding copyright license created in the early aughts.  It came into existence due to the human made tension between the technical possibilities of the World Wide Web and the existing legal structure of terrestrial governments.
 
-# the fundamental tension the creators of CC were trying to resolve
+This video illustrates this tension
+
 Creative Commons is tax-exempt organization dedicated to resolving the fundamental tension created by the 105 U.S. Congress through their legislation of ...   
 ___
 # the Copyright Term Extension Act,
@@ -35,10 +40,8 @@ ___
 # 7.    the CC global network.
 ___
 # Presentation Information
-This presentation was built on [Markdown](
-
-    This page was built with Markdown by Roe McKernan
-    Feel free to fork this page and edit, let's make it better.
+This page was built with [Markdown](https://en.wikipedia.org/wiki/Markdown) by Roe McKernan
+Feel free to [fork this page and edit](https://github.com/WhatLibrarian/Presentations/blob/master/ccweek1.md), let's make it better.
 
 
 
