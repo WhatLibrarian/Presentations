@@ -16,22 +16,29 @@ ___
 
 ___
     
-3.  Eldred vs Ashcroft,
+# 3.  Eldred vs Ashcroft,
 ___
     
     
-4.  the CC organization,
+# 4.  the CC organization,
 ___
     
     
-5.  what CC tries to accomplish with its licenses,
+# 5.  what CC tries to accomplish with its licenses,
 ___
     
     
-6.    the number of CC-licensed works available today, and
+# 6.    the number of CC-licensed works available today, and
 ___
     
     
-7.    the CC global network.
+# 7.    the CC global network.
+___
+# Presentation Information
+This presentation was built on [Markdown](
+
+    This page was built with Markdown by Roe McKernan
+    Feel free to fork this page and edit, let's make it better.
+
 
 
