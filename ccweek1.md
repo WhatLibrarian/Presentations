@@ -18,7 +18,6 @@ ___
 # The Copyright Term Extension Act of 1998
 This law, as created. resulted in the constriction of information sharing on the internet through:
 * extending the length of time before works entered the public domain
-* removing copyright owners agency by automating the grant of copyright
 
 A short [presentation on the history of copyright](http://www.slideshare.net/tomkeays/copyright-essentials) in the United States from Tom Keays, Le Moyne College is useful in getting an over of the historical trends in copyright law.
 ___
