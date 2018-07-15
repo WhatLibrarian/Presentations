@@ -10,8 +10,8 @@ ___
 ## What was the fundamental tension the creators of Creative Commons licensing were trying to resolve?
 A Creative Commons license is a legally binding copyright license created in the early aughts.  It came into existence due to the human made tension between the technical possibilities of the World Wide Web and the existing legal structure chosen by  terrestrial governments.
 
-This video from New Zealand illustrates this tension
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/4ZvJGV6YF6Y/0.jpg)](https://www.youtube.com/watch?v=4ZvJGV6YF6Y)
+This video from New Zealand illustrates this tension:
+# [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/4ZvJGV6YF6Y/0.jpg)](https://www.youtube.com/watch?v=4ZvJGV6YF6Y)
 
 Creative Commons is [tax-exempt](https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=27326&ein=043585301&country=US&deductibility=all&dispatchMethod=searchAll&isDescending=false&city=&ein1=&postDateFrom=&exemptTypeCode=al&submitName=&sortColumn=orgName&totalResults=1&names=Creative+Commons&resultsPerPage=25&indexOfFirstRow=0&postDateTo=&state=All+States#) organization dedicated to resolving the fundamental tension created by the 105 U.S. Congress through their legislation of ...   
 ___
