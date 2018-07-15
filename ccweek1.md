@@ -32,17 +32,14 @@ ___
 And so Lawrence Lessig (a lawyer for Eldred) and friends decided to create a set of voluntary copyright licenses. These licenses will be updated and maintained by [CC](https://whois.domaintools.com/creativecommons.org) which also operate a website to help share the licenses.
 History as descripted by Lessig ["How it all Began"](https://creativecommons.org/2005/10/12/ccinreviewlawrencelessigonhowitallbegan/)
 ___
-# 5.  what CC tries to accomplish with its licenses,
-
+And what is Creative Commons doing with its licenses? [Many Things](https://creativecommons.org/about/)
+![All the Things](https://creativecommons.org/wp-content/uploads/2016/05/ProgramSummary_visual_onesheet_v3b_NEW-1-866x1024.jpg)
 ___
-    
-    
-# 6.    the number of CC-licensed works available today, and
-This information can be found in the [Annual State of the Commons](https://stateof.creativecommons.org/)
+# It's Growing!
+Information on partnerships and number of items in the commons can be found in the [Annual State of the Commons](https://stateof.creativecommons.org/)
 ___
-    
-    
-# 7.    the CC global network.
+# Join the Creative Commons Global Network
+[Geographically based networks](https://creativecommons.org/wp-content/uploads/2016/05/ProgramSummary_visual_onesheet_v3b_NEW-1-866x1024.jpg) exist to support the Creative Common mission globally.    
 ___
 # Presentation Information
 * This page was built with [Markdown](https://en.wikipedia.org/wiki/Markdown) by Roe McKernan
