@@ -24,13 +24,13 @@ A short [presentation on the history of copyright](http://www.slideshare.net/tom
 ___
 Furthermore, the Supreme Court solidified this through the adjudification of   
 # Eldred vs Ashcroft
-Information from [Oyez](https://www.oyez.org/cases/2002/01-618)
+Information from [Oyez](https://www.oyez.org/cases/2002/01-618) and [Wikipedia](https://en.wikipedia.org/wiki/Eldred_v._Ashcroft) provide the details.
 > About Oyez
-Oyez (pronounced oh-yay), a free law project from Cornell’s Legal Information Institute (LII), Chicago-Kent College of Law and Justia.com, is a multimedia archive devoted to making the Supreme Court of the United States accessible to everyone. It is a complete and authoritative source for all of the Court’s audio since the installation of a recording system in October 1955. Oyez offers transcript-synchronized and searchable audio, plain-English case summaries, illustrated decision information, and full text Supreme Court opinions.
+It is a complete and authoritative source for all of the Court’s audio since the installation of a recording system in October 1955. Oyez offers transcript-synchronized and searchable audio, plain-English case summaries, illustrated decision information, and full text Supreme Court opinions.
 ___
 # The Creation of the Creative Commons Organization
-And so Lawrence Lessig and friends decided to create a set of voluntary chosen licenses. These licenses will be updated and maintained by a non-profit orgazation 
-
+And so Lawrence Lessig (a lawyer for Eldred) and friends decided to create a set of voluntary copyright licenses. These licenses will be updated and maintained by [CC](https://whois.domaintools.com/creativecommons.org) which also operate a website to help share the licenses.
+History as descripted by Lessig ["How it all Began"](https://creativecommons.org/2005/10/12/ccinreviewlawrencelessigonhowitallbegan/)
 ___
 # 5.  what CC tries to accomplish with its licenses,
 
@@ -38,6 +38,7 @@ ___
     
     
 # 6.    the number of CC-licensed works available today, and
+This information can be found in the [Annual State of the Commons](https://stateof.creativecommons.org/)
 ___
     
     
