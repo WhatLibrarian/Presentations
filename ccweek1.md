@@ -17,19 +17,19 @@ Creative Commons is [tax-exempt](https://apps.irs.gov/app/eos/displayAll.do?disp
 ___
 # The Copyright Term Extension Act of 1998
 This law, as created. resulted in the constriction of information sharing on the internet through:
-* extending the length of time before works entered the public domain
+* extending the length of time before works entered the public domain (Q: by how much? by what metric? might want to say a bit more, here, as the presentation at the link below takes a while to get to this point)
 
-A short [presentation on the history of copyright](http://www.slideshare.net/tomkeays/copyright-essentials) in the United States from Tom Keays, Le Moyne College is useful in getting an over of the historical trends in copyright law.
+A short [presentation on the history of copyright](http://www.slideshare.net/tomkeays/copyright-essentials) in the United States from Tom Keays, Le Moyne College is useful in getting an overview of the historical trends in copyright law.
 ___
-Furthermore, the Supreme Court solidified this through the adjudification of   
+Furthermore, the Supreme Court solidified this through the adjudication of   
 # Eldred vs Ashcroft
 Information from [Oyez](https://www.oyez.org/cases/2002/01-618) and [Wikipedia](https://en.wikipedia.org/wiki/Eldred_v._Ashcroft) provide the details.
 > About Oyez
 It is a complete and authoritative source for all of the Court’s audio since the installation of a recording system in October 1955. Oyez offers transcript-synchronized and searchable audio, plain-English case summaries, illustrated decision information, and full text Supreme Court opinions.
 ___
 # The Creation of the Creative Commons Organization
-And so Lawrence Lessig (a lawyer for Eldred) and friends decided to create a set of voluntary copyright licenses. These licenses will be updated and maintained by [CC](https://whois.domaintools.com/creativecommons.org) which also operate a website to help share the licenses.
-History as descripted by Lessig ["How it all Began"](https://creativecommons.org/2005/10/12/ccinreviewlawrencelessigonhowitallbegan/)
+And so Lawrence Lessig (a lawyer for Eldred) and friends decided to create a set of licenses that work alongside copyright law. These licenses are updated and maintained by [Creative Commons (CC)](https://whois.domaintools.com/creativecommons.org), which also operates a website to help share the licenses.
+CC History as described by Lessig: ["How it all Began"](https://creativecommons.org/2005/10/12/ccinreviewlawrencelessigonhowitallbegan/)
 ___
 And what is Creative Commons doing with its licenses? [Many Things](https://creativecommons.org/about/)
 ![All the Things](https://creativecommons.org/wp-content/uploads/2016/05/ProgramSummary_visual_onesheet_v3b_NEW-1-866x1024.jpg)
