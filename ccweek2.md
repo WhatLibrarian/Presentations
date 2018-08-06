@@ -1,3 +1,8 @@
+# Presentation Week 2
+Roe McKernan, MLIS
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/WhatLibrarian/Presentations/blob/master/ccweek2.md" property="cc:attributionName" rel="cc:attributionURL">Roe McKernan</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+___
+
 # Purpose of Copyright in the United States
 
 Article I Section 8. Clause 8 – Patent and Copyright Clause of the Constitution. 
@@ -29,7 +34,21 @@ ___
 Sometimes a picture is worth a thousand words
 ![Chart illustrating diference between © and IP](https://cdn.shopify.com/s/files/1/0070/7032/files/IP-infographic-shopify.jpg?v=1474259445)
 By [Dayna Winter](https://www.shopify.com/blog/199035593-ecommerce-intellectual-property-protection)
+___
+# How a person receives copyright protection for their work
+Copyright in the United States is
+## Automatic
+Copyright is automatic at the point of creation.  No further action required (unless you need to protect your copyrights in court). 
+## Systematic
+Everything, all the things. The moment you have expressed your creation in a tangible format (photo, web, print, writing, etc) than your creation is protected by U.S. Copyright. It is only through a voluntary open license scheme (like creative commons) that you can loosen the automatic restrictions.
+
+## Hydromatic 
+<a title="By Zyance [CC BY-SA 2.5 
+ (https://creativecommons.org/licenses/by-sa/2.5
+)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Corvette_z02.jpg"><img width="512" alt="Corvette z02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Corvette_z02.jpg/512px-Corvette_z02.jpg"></a>
+
 
 ___
-
 This [tuturial on what is or is not in the public domain](http://www.publicdomainsherpa.com/copyright-public-domain.html) can be a useful place to gain a comprehension around this.  The tutorial is licensed [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/) by the [Public Domain Sherpa](http://www.publicdomainsherpa.com/index.html).
+
+[Fair Use Database](https://www.copyright.gov/fair-use/fair-index.html)  
