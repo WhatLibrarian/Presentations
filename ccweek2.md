@@ -48,13 +48,13 @@ ___
 When works achieve escape velocity from the force of copyright - they are elevated to the Public Domain where no legal use restrictions remain.
 ![twilight zone parady in favor of public domain](https://law.duke.edu/images/cspd/thepublicdomain_2016new.png)
 
-A newsletter titled "(The Public Domain Review)[https://publicdomainreview.org/]" can provide inspiration from the past to draw on.
+A newsletter titled "[The Public Domain Review](https://publicdomainreview.org/)" can provide inspiration from the past to draw on.
 
 This [tuturial on what is or is not in the public domain](http://www.publicdomainsherpa.com/copyright-public-domain.html) can be a useful place to gain a comprehension around this.  The tutorial is licensed [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/) by the [Public Domain Sherpa](http://www.publicdomainsherpa.com/index.html).
 ___
 # Fair Use
-The most important part of Fair Use (FU) to remember is that FU is a right derived from Freedom of Speech and designed to protect those freedoms against the restrictions otherwise inherant in copyright laws.  The dark side of copyright can be seen in censorship and 'take-down' notices run amok as well as threatening litigation to supress the works of journalists and others.  FU is not an 'exemption' rather copright is an exemption of our 1st Amendment rights.  FU is also automatic.
+The most important part of Fair Use (FU) to remember is that FU is a right derived from Freedom of Speech and designed to protect those freedoms against the restrictions otherwise inherant in copyright laws.  The dark side of copyright can be seen in censorship and 'take-down' notices run amok as well as threatening litigation to supress the works of journalists and others.  FU is not an 'exemption' rather copright is an exemption of our 1st Amendment rights.  FU is also automatic and if you would like to explore how the judicial system has ruled so far, check out the [Fair Use Database](https://www.copyright.gov/fair-use/fair-index.html).  
 
 A voluntary exemption to traditional copyright is voluntary licensing such as Creative Commons.
 
-[Fair Use Database](https://www.copyright.gov/fair-use/fair-index.html)  
+
