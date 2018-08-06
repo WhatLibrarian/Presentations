@@ -4,10 +4,9 @@ Article I Section 8. Clause 8 – Patent and Copyright Clause of the Constitutio
 >“To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries.”
 
 ![Copyright clause in consitution](https://image.slidesharecdn.com/copyright-freedom-vs-control-1196752901688938-2/95/copyright-freedom-vs-control-6-728.jpg?cb=1196724103)
-"Slide 6 in [_Copyright: Freedom vs. Control_](https://www.slideshare.net/A0u/copyright-freedom-vs-control/6) by A0u"
 
-2. what is copyrightable and what is not,
-3. the relationship between copyright and other methods of protecting intellectual property,
+"Slide 6 in [Copyright: Freedom vs. Control](https://www.slideshare.net/A0u/copyright-freedom-vs-control/6) by A0u"
+
 4. how a person receives copyright protection for their work,
 5. the public domain, and
 6. exemptions to copyright like fair use.
@@ -24,6 +23,12 @@ One item on that list that deserves some further thought is the concept of the "
 This dichotomy has been troublesome due the fact that reasonable people can have different notions of what constitutes an idea and what constitutes the expression of that idea. A quote from the courts illustrates this: 
 
 >"Obviously, no principle can be stated as to when an imitator has gone beyond copying the 'idea,' and has borrowed its 'expression.' Decisions must therefore inevitably be ad hoc." from the Peter Pan Fabrics, Inc. v. Martin Weiner Corp., 274 F.2d 487 (2d Cir. 1960).
+
+___
+# The Relationship Between Copyright & Other Methods of Protecting IP
+Sometimes a picture is worth a thousand words
+![Chart illustrating diference between © and IP](https://cdn.shopify.com/s/files/1/0070/7032/files/IP-infographic-shopify.jpg?v=1474259445)
+By [Dayna Winter](https://www.shopify.com/blog/199035593-ecommerce-intellectual-property-protection)
 
 ___
 
