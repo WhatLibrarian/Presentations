@@ -12,8 +12,7 @@ Article I Section 8. Clause 8 – Patent and Copyright Clause of the Constitutio
 
 "Slide 6 in [Copyright: Freedom vs. Control](https://www.slideshare.net/A0u/copyright-freedom-vs-control/6) by A0u"
 
-4. how a person receives copyright protection for their work,
-5. the public domain, and
+
 6. exemptions to copyright like fair use.
 ___
 # What is copyrightable and what is not?
@@ -43,12 +42,19 @@ Copyright is automatic at the point of creation.  No further action required (un
 Everything, all the things. The moment you have expressed your creation in a tangible format (photo, web, print, writing, etc) than your creation is protected by U.S. Copyright. It is only through a voluntary open license scheme (like creative commons) that you can loosen the automatic restrictions.
 
 ## Hydromatic 
-<a title="By Zyance [CC BY-SA 2.5 
- (https://creativecommons.org/licenses/by-sa/2.5
-)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Corvette_z02.jpg"><img width="512" alt="Corvette z02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Corvette_z02.jpg/512px-Corvette_z02.jpg"></a>
-
-
+<a title="By Zyance [CC BY-SA 2.5(https://creativecommons.org/licenses/by-sa/2.5)], from Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Corvette_z02.jpg"><img width="512" alt="Corvette z02" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Corvette_z02.jpg/512px-Corvette_z02.jpg"></a>
 ___
+# The Public Domain
+When works achieve escape velocity from the force of copyright - they are elevated to the Public Domain where no legal use restrictions remain.
+![twilight zone parady in favor of public domain](https://law.duke.edu/images/cspd/thepublicdomain_2016new.png)
+
+A newsletter titled "(The Public Domain Review)[https://publicdomainreview.org/]" can provide inspiration from the past to draw on.
+
 This [tuturial on what is or is not in the public domain](http://www.publicdomainsherpa.com/copyright-public-domain.html) can be a useful place to gain a comprehension around this.  The tutorial is licensed [CC BY-NC 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/) by the [Public Domain Sherpa](http://www.publicdomainsherpa.com/index.html).
+___
+# Fair Use
+The most important part of Fair Use (FU) to remember is that FU is a right derived from Freedom of Speech and designed to protect those freedoms against the restrictions otherwise inherant in copyright laws.  The dark side of copyright can be seen in censorship and 'take-down' notices run amok as well as threatening litigation to supress the works of journalists and others.  FU is not an 'exemption' rather copright is an exemption of our 1st Amendment rights.  FU is also automatic.
+
+A voluntary exemption to traditional copyright is voluntary licensing such as Creative Commons.
 
 [Fair Use Database](https://www.copyright.gov/fair-use/fair-index.html)  
