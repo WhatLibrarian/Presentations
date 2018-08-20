@@ -28,7 +28,7 @@ And for those of us who are neither humans nor a robots ...
 ---
 
 # Attribution
-![By](https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Cc-by_new.svg)
+![By](https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg)
 ## BY
 
 Licensees may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author or licensor the credits ([[attribution (copyright)|attribution]]) in the manner specified by these.
@@ -77,6 +77,7 @@ Licensees may copy, distribute, display and perform only verbatim copies of the 
 ---
 
 # how the CC licenses affect works in the public domain
+---
 
 Because Creative Commons licenses often serve as wrap-around licenses there is a danger of reencapsulating the public domain accidently.  For instance...
 On the other hand, sometimes a CC0 mark or a public domain mark help clarify content use for downstream users.  For instance many U.S. Government websites
