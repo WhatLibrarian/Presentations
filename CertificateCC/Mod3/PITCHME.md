@@ -19,8 +19,9 @@ For interoperability between machines and software
 And for those of us who are neither humans nor a robots ...
 ---
 ## A Lawyer Readable layer
-![a quote about being a lawyer - humourous](Presentations/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg )
-[original image](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
+![a quote about being a lawyer - humourous](Presentations/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg)
+![original image](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
+![thrid try](https://github.com/WhatLibrarian/Presentations/blob/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg)
 ---
 # Basic elements and the icons that represent them.
 
@@ -35,17 +36,17 @@ Licensees may copy, distribute, display and perform the work and make derivative
 
 ---
 # Share Alike
-![Share Alike](https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Cc-sa.svg)
+![Share Alike](https://upload.wikimedia.org/wikipedia/commons/2/29/Cc-sa.svg)
 Licensees may distribute derivative works only under a license identical ("not more restrictive") to the license that governs the original work.  Without share-alike, derivative works might be sublicensed with compatible but more restrictive license clauses, e.g. CC BY to CC BY-NC.
 
 ---
 # Non-commercial
-![Non-Commercial](https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Cc-nc.svg)
+![Non-Commercial](https://upload.wikimedia.org/wikipedia/commons/1/18/Creative_Commons_%22Non-Commercial%22_icon_%28SVG%2C_nominal_64x64%29.svg)
 
 Licensees may copy, distribute, display, and perform the work and make derivative works and remixes based on it only for non-commercial purposes.
 ---
 #Non-derivative
-![No Derivative Works](https://en.wikipedia.org/wiki/Creative_Commons_license#/media/File:Cc-nd.svg)
+![No Derivative Works](https://upload.wikimedia.org/wikipedia/commons/c/c7/Cc-nd.svg)
 Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it.
 
 ---
@@ -55,23 +56,27 @@ Licensees may copy, distribute, display and perform only verbatim copies of the 
 ## Attribution alone
 ![Attribution Only](https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg)
 
- ---
+---
 
 ## Attribution + ShareAlike |
-
+![Attribution Share Alike](https://upload.wikimedia.org/wikipedia/commons/0/08/Cc-by-sa_%281%29.svg)
 ---
 
 ## Attribution + Noncommercial
+![Attribution noncommercial](https://upload.wikimedia.org/wikipedia/commons/9/99/Cc-by-nc_icon.svg)
 
 ---
 
 ## Attribution + Noncommercial + ShareAlike
+![cc by nc sa](https://upload.wikimedia.org/wikipedia/commons/1/12/Cc-by-nc-sa_icon.svg)
 ---
 
 ## Attribution + NoDerivatives
+![cc by nd](https://upload.wikimedia.org/wikipedia/commons/1/16/Cc-by-nd_icon.svg)
 ---
 
 ## Attribution + Noncommercial + NoDerivatives
+![cc by nc](https://upload.wikimedia.org/wikipedia/commons/f/f1/Cc-by-nc-nd_icon.svg)
 
 ---
 # how the Creative Commons licenses affect exceptions and limitations to copyright
@@ -82,5 +87,3 @@ As a layer on top of national copyright laws.  Creative Commons helps creators a
 ---
 
 Because Creative Commons licenses often serve as wrap-around licenses there is a danger of reencapsulating the public domain accidently.  For instance if someone puts a creative commons copyright symbol on a public domain novel or a federal document. On the other hand, sometimes a CC0 mark or a public domain mark help clarify content use for downstream users.  For instance many U.S. Government websites lack any copyright notice it is sometimes confusing for users to understand what sort of use is permitted.
-
-[CC0 FAQ](https://wiki.creativecommons.org/wiki/CC0_FAQ)
