@@ -52,34 +52,35 @@ Licensees may copy, distribute, display and perform only verbatim copies of the 
 
 # the six Creative Commons licenses
 ---
-![Attribution Only](https://commons.wikimedia.org/wiki/File:CC-BY_icon.svg)
-{| class="wikitable sortable"
-|-
-! Icon !! Description !! Acronym !!Allows [[Remix culture]]!!Allows commercial use!!Allows [[Free Cultural Works]]!!Meets '[[Open Definition]]'
-|-
-| [[File:CC0 button.svg|alt=CC0 icon|88px]] || Freeing content globally without restrictions || CC0|| {{Yes}} || {{Yes}}|| {{Yes}} ||{{Yes}}
-|-
-| [[File:CC-BY icon.svg|alt=CC-BY icon|88px]] || Attribution alone || BY||{{Yes}}|| {{Yes}}|| {{Yes}} || {{Yes}}
-|-
-| [[File:CC-BY-SA icon.svg|alt=CC-BY-SA icon|88px]] || Attribution + ShareAlike || BY-SA||{{yes}}||{{Yes}}|| {{Yes}} || {{Yes}}
-|-
-| [[File:Cc-by-nc icon.svg|alt=CC-by-NC icon|88px]] || Attribution + Noncommercial || BY-NC|| {{Yes}}|| {{No}} || {{No}}||{{No}}
-|-
-| [[File:Cc-by-nc-sa icon.svg|alt=CC-BY-NC-SA icon|88px]] ||  Attribution + Noncommercial + ShareAlike || BY-NC-SA|| {{Yes}}|| {{No}} || {{No}}||{{No}}
-|-
-| [[File:Cc-by-nd icon.svg|alt=CC-BY-ND icon|88px]] || Attribution + NoDerivatives || BY-ND|| {{No}}|| {{Yes}} || {{No}}||{{No}}
-|-
-| [[File:Cc-by-nc-nd icon.svg|alt=CC-BY-NC-ND icon|88px]] || Attribution + Noncommercial + NoDerivatives || BY-NC-ND|| {{No}}|| {{No}} || {{No}}||{{No}}
-|}<nowiki> </nowiki><ref name=licenses /><ref name="CC0" />
+## Attribution alone
+![Attribution Only](https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg)
+
+ ---
+
+## Attribution + ShareAlike |
 
 ---
-# how the CC licenses affect exceptions and limitations to copyright
+
+## Attribution + Noncommercial
+
 ---
 
+## Attribution + Noncommercial + ShareAlike
+---
+
+## Attribution + NoDerivatives
+---
+
+## Attribution + Noncommercial + NoDerivatives
+
+---
+# how the Creative Commons licenses affect exceptions and limitations to copyright
+---
+As a layer on top of national copyright laws.  Creative Commons helps creators and users leverage existing laws and help redefine sharing in a digital world.
+---
 # how the CC licenses affect works in the public domain
 ---
 
-Because Creative Commons licenses often serve as wrap-around licenses there is a danger of reencapsulating the public domain accidently.  For instance...
-On the other hand, sometimes a CC0 mark or a public domain mark help clarify content use for downstream users.  For instance many U.S. Government websites
+Because Creative Commons licenses often serve as wrap-around licenses there is a danger of reencapsulating the public domain accidently.  For instance if someone puts a creative commons copyright symbol on a public domain novel or a federal document. On the other hand, sometimes a CC0 mark or a public domain mark help clarify content use for downstream users.  For instance many U.S. Government websites lack any copyright notice it is sometimes confusing for users to understand what sort of use is permitted.
 
 [CC0 FAQ](https://wiki.creativecommons.org/wiki/CC0_FAQ)
