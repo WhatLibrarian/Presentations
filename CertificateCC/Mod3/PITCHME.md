@@ -22,9 +22,9 @@ And for those of us who are neither humans nor a robots ...
 ![a quote about being a lawyer - humourous](Presentations/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg)
 ![original image](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
 ![thrid try](https://github.com/WhatLibrarian/Presentations/blob/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg)
+![4th](https://raw.githubusercontent.com/WhatLibrarian/Presentations/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg) 
 ---
-# Basic elements and the icons that represent them.
-
+# Basic elements and the icons that represent them:
 
 ---
 
@@ -37,16 +37,21 @@ Licensees may copy, distribute, display and perform the work and make derivative
 ---
 # Share Alike
 ![Share Alike](https://upload.wikimedia.org/wikipedia/commons/2/29/Cc-sa.svg)
+## SA
+
 Licensees may distribute derivative works only under a license identical ("not more restrictive") to the license that governs the original work.  Without share-alike, derivative works might be sublicensed with compatible but more restrictive license clauses, e.g. CC BY to CC BY-NC.
 
 ---
 # Non-commercial
+## NC
 ![Non-Commercial](https://upload.wikimedia.org/wikipedia/commons/1/18/Creative_Commons_%22Non-Commercial%22_icon_%28SVG%2C_nominal_64x64%29.svg)
 
 Licensees may copy, distribute, display, and perform the work and make derivative works and remixes based on it only for non-commercial purposes.
 ---
-#Non-derivative
+# Non-derivative
+##ND
 ![No Derivative Works](https://upload.wikimedia.org/wikipedia/commons/c/c7/Cc-nd.svg)
+
 Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it.
 
 ---
@@ -58,7 +63,7 @@ Licensees may copy, distribute, display and perform only verbatim copies of the 
 
 ---
 
-## Attribution + ShareAlike |
+## Attribution + ShareAlike
 ![Attribution Share Alike](https://upload.wikimedia.org/wikipedia/commons/0/08/Cc-by-sa_%281%29.svg)
 ---
 
@@ -86,4 +91,4 @@ As a layer on top of national copyright laws.  Creative Commons helps creators a
 # how the CC licenses affect works in the public domain
 ---
 
-Because Creative Commons licenses often serve as wrap-around licenses there is a danger of reencapsulating the public domain accidently.  For instance if someone puts a creative commons copyright symbol on a public domain novel or a federal document. On the other hand, sometimes a CC0 mark or a public domain mark help clarify content use for downstream users.  For instance many U.S. Government websites lack any copyright notice it is sometimes confusing for users to understand what sort of use is permitted.
+Because Creative Commons licenses often serve as wrap-around licenses there is a danger of reencapsulating the public domain accidently.  For instance if someone puts a creative commons copyright symbol on a public domain novel or a federal document. On the other hand, sometimes a CC0 mark or a public domain mark help clarify content use for downstream users.  For instance many U.S. Government websites lack any copyright notice and it is sometimes confusing for users to understand what sort of use is permitted.
