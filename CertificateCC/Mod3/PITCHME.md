@@ -19,38 +19,35 @@ For interoperability between machines and software
 And for those of us who are neither humans nor a robots ...
 ---
 ## A Lawyer Readable layer
-![a quote about being a lawyer - humourous](Presentations/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg)
-![original image](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
-![thrid try](https://github.com/WhatLibrarian/Presentations/blob/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg)
-![4th](https://raw.githubusercontent.com/WhatLibrarian/Presentations/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg) 
+![a quote about being a lawyer - humourous](https://raw.githubusercontent.com/WhatLibrarian/Presentations/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg)
 ---
 # Basic elements and the icons that represent them:
 
 ---
 
 # Attribution
-![By](https://upload.wikimedia.org/wikipedia/commons/1/16/CC-BY_icon.svg)
+![By](https://upload.wikimedia.org/wikipedia/commons/3/3c/Cc-by_new.svg)
 ## BY
 
-Licensees may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author or licensor the credits ([[attribution (copyright)|attribution]]) in the manner specified by these.
+Licensees may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author or licensor the credit.
 
 ---
 # Share Alike
 ![Share Alike](https://upload.wikimedia.org/wikipedia/commons/2/29/Cc-sa.svg)
 ## SA
 
-Licensees may distribute derivative works only under a license identical ("not more restrictive") to the license that governs the original work.  Without share-alike, derivative works might be sublicensed with compatible but more restrictive license clauses, e.g. CC BY to CC BY-NC.
+Licensees may distribute derivative works only under a license identical ("not more restrictive") to the license that governs the original work.  
 
 ---
 # Non-commercial
-## NC
 ![Non-Commercial](https://upload.wikimedia.org/wikipedia/commons/1/18/Creative_Commons_%22Non-Commercial%22_icon_%28SVG%2C_nominal_64x64%29.svg)
+## NC
 
 Licensees may copy, distribute, display, and perform the work and make derivative works and remixes based on it only for non-commercial purposes.
 ---
 # Non-derivative
-##ND
 ![No Derivative Works](https://upload.wikimedia.org/wikipedia/commons/c/c7/Cc-nd.svg)
+## ND
 
 Licensees may copy, distribute, display and perform only verbatim copies of the work, not derivative works and remixes based on it.
 
