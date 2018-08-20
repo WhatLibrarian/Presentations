@@ -3,7 +3,8 @@
 by Rowena McKernan
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-___
+---
+
 # the three layers of the CC licenses
 
 The utitily of the Creative Commons license is that it comes in three useful layers.
@@ -15,13 +16,14 @@ Features easy to read text and designed for clarity and comprehension.
 ## A Computer Readable layer
 For interoperability between machines and software
 ---
-And for those of us who are neither human nor a robot ...
+And for those of us who are neither humans nor a robots ...
 ---
 ## A Lawyer Readable layer
-![a quote about being a lawyer - humourous](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
+[![a quote about being a lawyer - humourous](https://github.com/WhatLibrarian/Presentations/blob/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.com.jpg)](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
 ---
-# the four license elements and the icons that represent them
+# Basic elements and the icons that represent them.
 ---
+
 
 |-
 ! Icon !! Right || Description
