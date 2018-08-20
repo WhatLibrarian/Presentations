@@ -44,7 +44,8 @@ And for those of us who are neither humans nor a robots ...
 | No Derivative Works (ND)
 | Licensees may copy, distribute, display and perform only verbatim copies of the work, not [[derivative work]]s and [[Remix culture|remixes]] based on it.
 |} <ref>{{cite web|title=What are Creative Commons licenses?|url=https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions#What_are_Creative_Commons_licenses.3F|website=Frequently Asked Questions - Creative Commons|accessdate=July 26, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20150808182345/https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions#What_are_Creative_Commons_licenses.3F|archivedate=August 8, 2015|df=mdy-all}}</ref>
-___
+---
+
 # the six Creative Commons licenses
 {| class="wikitable sortable"
 |-
@@ -65,9 +66,10 @@ ___
 | [[File:Cc-by-nc-nd icon.svg|alt=CC-BY-NC-ND icon|88px]] || Attribution + Noncommercial + NoDerivatives || BY-NC-ND|| {{No}}|| {{No}} || {{No}}||{{No}}
 |}<nowiki> </nowiki><ref name=licenses /><ref name="CC0" />
 
-___
+---
 # how the CC licenses affect exceptions and limitations to copyright
-___
+---
+
 # how the CC licenses affect works in the public domain
 
 Because Creative Commons licenses often serve as wrap-around licenses there is a danger of reencapsulating the public domain accidently.  For instance...
