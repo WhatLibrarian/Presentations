@@ -7,19 +7,21 @@ ___
 # the three layers of the CC licenses
 
 The utitily of the Creative Commons license is that it comes in three useful layers.
+---
 
-1. A Human Readable layer
+## A Human Readable layer
 Features easy to read text and designed for clarity and comprehension.
-
-2. A Computer Readable layer
+---
+## A Computer Readable layer
 For interoperability between machines and software
-
+---
 And for those of us who are neither human nor a robot ...
-___
-3. A Lawyer Readable layer
-![a quote about being a lawyer. humerlous](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
-___
+---
+## A Lawyer Readable layer
+![a quote about being a lawyer - humourous](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
+---
 # the four license elements and the icons that represent them
+---
 
 |-
 ! Icon !! Right || Description
