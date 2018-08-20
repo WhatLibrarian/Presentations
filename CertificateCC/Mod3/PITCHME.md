@@ -19,7 +19,8 @@ For interoperability between machines and software
 And for those of us who are neither humans nor a robots ...
 ---
 ## A Lawyer Readable layer
-[![a quote about being a lawyer - humourous](https://github.com/WhatLibrarian/Presentations/blob/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.com.jpg)](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
+![a quote about being a lawyer - humourous](https://github.com/WhatLibrarian/Presentations/blob/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.com.jpg)
+[original image](http://statusmind.com/images/2014/02/Awesome-Facebook-Status-32064-statusmind.com.jpg)
 ---
 # Basic elements and the icons that represent them.
 ---
