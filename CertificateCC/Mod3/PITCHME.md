@@ -16,7 +16,7 @@ Features easy to read text and designed for clarity and comprehension.
 ## A Computer Readable layer
 For interoperability between machines and software
 ---
-And for those of us who are neither humans nor a robots ...
+And for those of us who are neither humans nor robots ...
 ---
 ## A Lawyer Readable layer
 ![a quote about being a lawyer - humourous](https://raw.githubusercontent.com/WhatLibrarian/Presentations/master/CertificateCC/Mod3/Awesome-Facebook-Status-32064-statusmind.jpg)
