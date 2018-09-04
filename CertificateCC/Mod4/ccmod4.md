@@ -37,8 +37,8 @@ This is where the rubber is going to hit the road at your institution.  Its goin
 
 There is also the federal 'Work for Hire' [17 U.S.C. § 101](https://www.copyright.gov/circs/circ30.pdf) that governs works created during employment.
 
-<a data-flickr-embed="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/gforsythe/8220702171/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_n.jpg" width="320" height="240" alt="Copyright, contracts, confusion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="800" height="600" alt="Copyright, contracts, confusion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a href="https://www.flickr.com/photos/gforsythe/8220702171/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_n.jpg" width="320" height="240" alt="Copyright, contracts, confusion"></a>
+"Copyright, contracts, confusion" by Giulia Forsythe. 
 
 <p><a href="https://commons.wikimedia.org/wiki/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg#/media/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/WPA_Art_Poster%2C_Work_Promotes_Confidence.jpeg" alt="WPA Art Poster, Work Promotes Confidence.jpeg" width="220" height="320"></a><br>This image is available from the United States Library of Congress's <a href="http://www.loc.gov/rr/print/">Prints and Photographs division</a> under the digital ID <a rel="nofollow" class="external text" href="http://hdl.loc.gov/loc.pnp/cph.3b48918">cph.3b48918</a>. Public Domain.</p>
