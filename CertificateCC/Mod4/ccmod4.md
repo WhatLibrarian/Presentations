@@ -22,14 +22,26 @@ This short video by COMMpadres Media includes topics such as the importance and 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Hfue7l-WuJ4/0.jpg)](https://www.youtube-nocookie.com/embed/Hfue7l-WuJ4?rel=0)
 
+There are many resources available to increase your skills as a communicator. If you are the sole campus resource for Open Educational Resources and the Creative Commons licenses they rely on, please be thoughful of your audiences' need and the value proposition Creative Commons represents to your institution.
+
+---
 
 ## Misconceptions & the Need to KNOW
 
-This challenge is a frequent and repeated issue.  Faculty will want to know how much they can use and if their use is "OK".  
+This challenge is a frequent and repeated issue surrounding legal and ethical use of third-party materials.  Faculty will want to know how much they can use and if their use is "OK".  
 
-There is a lot of scary language around copyright including some harsh penalties that are played before disk and streaming media every time you choose to watch something.
+Compounding this is that there is a lot of scary language around copyright including some harsh penalties. It can feel sometimes like a campaign of FUD.
 
-___
+The following graphic is a visual depiction of the confusion surrounding how people feel about interacting with copyright.
+
+<a href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="100%" height="auto" alt="Copyright, contracts, confusion"></a></br>"Copyright, contracts, confusion" by Giulia Forsythe, via Flickr. November 26, 2012.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) Universal Public Domain Dedication.
+
+Enthousiastically share the good news.
+
+![Baseline for Creative Commonns Licenses](\baselinefooter.png) CC-BY-SA-3.0 by [Foter](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg)
+![men shouting](\shoutingEFF.png) from [EFF](https://www.eff.org/files/banner_library/EFF-work-icons.png)
+
+---
 
 ## Scholarly Communication & Faculty Contracts
 ### (P.S. Work for Hire)
@@ -38,9 +50,7 @@ This is where the rubber is going to hit the road at your institution.  Its goin
 
 There is also the federal 'Work for Hire' [17 U.S.C. § 101](https://www.copyright.gov/circs/circ30.pdf) that governs works created during employment.
 
-The following graphic is a visual depiction of the confusion surrounding faculty and publisher contracts and how they interact with copyright.
 
-<a href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="100%" height="auto" alt="Copyright, contracts, confusion"></a></br>"Copyright, contracts, confusion" by Giulia Forsythe, via Flickr. November 26, 2012.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) Universal Public Domain Dedication.   
 
 <a href="https://commons.wikimedia.org/wiki/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg#/media/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/WPA_Art_Poster%2C_Work_Promotes_Confidence.jpeg" alt="WPA Art Poster, Work Promotes Confidence.jpeg" width="220" height="320" style="float:left;"></a>This image is available from the United States Library of Congress's <a href="http://www.loc.gov/rr/print/">Prints and Photographs division</a> under the digital ID <a rel="nofollow" class="external text" href="http://hdl.loc.gov/loc.pnp/cph.3b48918">cph.3b48918</a>. Public Domain.
 
