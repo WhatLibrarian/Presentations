@@ -37,8 +37,18 @@ This is where the rubber is going to hit the road at your institution.  Its goin
 
 There is also the federal 'Work for Hire' [17 U.S.C. § 101](https://www.copyright.gov/circs/circ30.pdf) that governs works created during employment.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="800" height="600" alt="Copyright, contracts, confusion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+The following graphic is a visual depiction of the confusion surrounding faculty and publisher contracts and how they interact with copyright.
 
-"Copyright, contracts, confusion" by Giulia Forsythe. 
+<a href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="800" height="600" alt="Copyright, contracts, confusion"></a></br>"Copyright, contracts, confusion" by Giulia Forsythe, via Flickr. November 26, 2012.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) Universal Public Domain Dedication.   
 
-<p><a href="https://commons.wikimedia.org/wiki/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg#/media/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/WPA_Art_Poster%2C_Work_Promotes_Confidence.jpeg" alt="WPA Art Poster, Work Promotes Confidence.jpeg" width="220" height="320"></a><br>This image is available from the United States Library of Congress's <a href="http://www.loc.gov/rr/print/">Prints and Photographs division</a> under the digital ID <a rel="nofollow" class="external text" href="http://hdl.loc.gov/loc.pnp/cph.3b48918">cph.3b48918</a>. Public Domain.</p>
+<a href="https://commons.wikimedia.org/wiki/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg#/media/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/WPA_Art_Poster%2C_Work_Promotes_Confidence.jpeg" alt="WPA Art Poster, Work Promotes Confidence.jpeg" width="220" height="320" style="float:left;"></a>This image is available from the United States Library of Congress's <a href="http://www.loc.gov/rr/print/">Prints and Photographs division</a> under the digital ID <a rel="nofollow" class="external text" href="http://hdl.loc.gov/loc.pnp/cph.3b48918">cph.3b48918</a>. Public Domain.
+
+It's important to remember to not get lost in the FUD that can arise admidst all the legal language and that sometimes the simplest explanation is to trust that with any Creative Commons license you can 'use'the resource.  The basic act of copying (which technology allows very easily) is the foundation of the licenses.
+
+- You can negotiate your publishing contracts.
+ - A great resource before you choose a journal to publish in is "[Think. Check. Submit.](https://thinkchecksubmit.org/)"
+ - the Universities of the Big 10 Academic Alliance have created an Addendum that authors can use when negotiating with their publisher.  This addendum works to preserve rights that academic authors commonly wish to keep, all of which look towards removing restrictions from the flow of information and allowing a freer exchange of ideas. [OSU](https://library.osu.edu/blogs/copyright/2016/11/14/negotiate/
+  - https://sparcopen.org/our-work/author-rights/brochure-html/
+- You faculty contract is negotiated periodically. Find out when yours is next.  Get involved.
+
+![placards proclaiming the importance of copyright awareness](https://lh3.googleusercontent.com/hNu-EP8LjVNg5TDHGE2ivKhS41LignR1JfCaadixSSAlXtSnN-YsdGpOa3kUtcIXApupueQ3Tc1q2mCQtVu6sSilRGzhQ2v6z_dzbJutC_lBtv0QUv45ZgJBJyy3O96sTh-l7jnJu1aIADunvA)
