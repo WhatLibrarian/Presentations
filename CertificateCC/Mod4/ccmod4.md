@@ -24,8 +24,7 @@ This short video by COMMpadres Media includes topics such as the importance and 
   <figcaption><a href ="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</a></figcaption>
 </figure>
 
-
-There are many resources available to increase your skills as a communicator. If you are the sole campus resource for Open Educational Resources and the Creative Commons licenses they rely on, please be thoughfull of your audiences' need and the value proposition Creative Commons represents to your institution.
+<p>There are many resources available to increase your skills as a communicator. If you are the sole campus resource for Open Educational Resources and the Creative Commons licenses they rely on, please be thoughfull of your audiences' need and the value proposition Creative Commons represents to your institution.</p>
 
 ---
 
@@ -35,11 +34,12 @@ This challenge is a frequent and repeated issue surrounding legal and ethical us
 
 Compounding this is that there is a lot of scary language around copyright including some harsh penalties. It can feel sometimes like a campaign of FUD.
 
-The following graphic is a visual depiction of the confusion surrounding how people feel about interacting with copyright.
+The following graphic is a visual depiction of the confusion surrounding how faculty may feel about interacting with copyright.
 
 <figure><a href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="100%" height="auto" alt="Copyright, contracts, confusion"></a><figcaption>"Copyright, contracts, confusion" by Giulia Forsythe, via Flickr. November 26, 2012.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) Universal Public Domain Dedication.</figcaption></figure>
-
-**Enthusiastically shout the good news!**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![men shouting](shoutingEFF.PNG) *Above image from the [Electionic Freedom Foundation](https://www.eff.org/files/banner_library/EFF-work-icons.PNG)  [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)*
+</br></br>
+**Enthusiastically shout the good news!**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![men shouting](shoutingEFF.PNG)</br>
+*Above image from the [Electronic Frontier Foundation](https://www.eff.org/files/banner_library/EFF-work-icons.PNG).   [Creative Commons Attribution License 3.0](http://creativecommons.org/licenses/by/3.0/us/)*
 
 That the **Creative Commons** license allows at its most basic level the ability to make and distribute copies.  It's important to remember to not get lost in the FUD that can arise amidst the legal and technical language and that sometimes the simplest message is to trust that with any Creative Commons license you can 'use' the resource.  The basic act of copying (which technology allows very easily) is the foundation of the licenses.
 
@@ -69,6 +69,8 @@ A corollary to the inquiry 'what can I use' is encouraging faculty to share the 
 - Fantastic resource for faculty new to scholarly communication in general is from [Berkeley](http://www.lib.berkeley.edu/scholarly-communication/publishing/copyright/managing-copyrights)
 
 ![placards proclaiming the importance of copyright awareness](https://lh3.googleusercontent.com/hNu-EP8LjVNg5TDHGE2ivKhS41LignR1JfCaadixSSAlXtSnN-YsdGpOa3kUtcIXApupueQ3Tc1q2mCQtVu6sSilRGzhQ2v6z_dzbJutC_lBtv0QUv45ZgJBJyy3O96sTh-l7jnJu1aIADunvA)
+
+CC BY 4.0 Plamena Popova via [Communia Association](https://www.communia-association.org/). 
 
 ___
 ![Creative Commons icon](creativecommons.png) 2018 | Roe McKernan | [Creative Commons Certification Assignment 4](https://github.com/WhatLibrarian/Presentations/blob/master/CertificateCC/Mod4/ccmod4.md)
