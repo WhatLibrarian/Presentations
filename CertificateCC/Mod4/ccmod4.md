@@ -38,8 +38,8 @@ The following graphic is a visual depiction of the confusion surrounding how peo
 
 Enthousiastically share the good news.
 
-![Baseline for Creative Commonns Licenses](\baselinefooter.png) CC-BY-SA-3.0 by [Foter](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg)
-![men shouting](\shoutingEFF.png) from [EFF](https://www.eff.org/files/banner_library/EFF-work-icons.png)
+![Baseline for Creative Commonns Licenses](baselinefooter.png) CC-BY-SA-3.0 by [Foter](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg)
+![men shouting](shoutingEFF.png) from [EFF](https://www.eff.org/files/banner_library/EFF-work-icons.png)  [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
 
 ---
 
