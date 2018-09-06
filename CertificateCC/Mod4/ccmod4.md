@@ -39,40 +39,36 @@ The following graphic is a visual depiction of the confusion surrounding how peo
 
 <figure><a href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="100%" height="auto" alt="Copyright, contracts, confusion"></a><figcaption>"Copyright, contracts, confusion" by Giulia Forsythe, via Flickr. November 26, 2012.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) Universal Public Domain Dedication.</figcaption></figure>
 
-**Enthusiastically shout the good news!**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![men shouting](shoutingEFF.PNG)
+**Enthusiastically shout the good news!**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![men shouting](shoutingEFF.PNG) *Above image from the [Electionic Freedom Foundation](https://www.eff.org/files/banner_library/EFF-work-icons.PNG)  [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)*
 
-Above image from the [Electionic Freedom Foundation](https://www.eff.org/files/banner_library/EFF-work-icons.PNG)  [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+That the **Creative Commons** license allows at its most basic level the ability to make and distribute copies.  It's important to remember to not get lost in the FUD that can arise amidst the legal and technical language and that sometimes the simplest message is to trust that with any Creative Commons license you can 'use' the resource.  The basic act of copying (which technology allows very easily) is the foundation of the licenses.
 
+Sharing is Caring.
 
-
-![Baseline for Creative Commonns Licenses](baselinefooter.PNG) This image of "Let's Change It", licensed with a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/) via [Foter](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg) is a great image to use in slide presentation or as an office poster.
+The following derivative of a [larger infographic](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg) (found via footer.com) can be a good resource for a poster or a presentation slide.
+![Baseline for Creative Commonns Licenses](baselinefooter.PNG) [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/us/)
 
 ---
 
 ## Scholarly Communication & Contracts
 ### (P.S. Work for Hire)
 
-A corallery to what can I use is encouraging faculty to share the work they have created. This is where the rubber is going to hit the road at your institution.  Its going to be very important to read and assess the contract that governs faculty work where you are.
+A corollary to the inquiry 'what can I use' is encouraging faculty to share the work they have created. This is where the rubber is going to hit the road at your institution.  Its going to be very important to read and assess the contract that governs faculty work where you are located.
 
 1. Grant Contracts
 2. Faculty Contracts
-3. Federal and/or state 'Work for Hire' laws
+3. Federal and/or state 'Work for Hire' laws such as [17 U.S.C. § 101](https://www.copyright.gov/circs/circ30.pdf) that governs works created during employment.
 
-There is also the federal 'Work for Hire' [17 U.S.C. § 101](https://www.copyright.gov/circs/circ30.pdf) that governs works created during employment.
-
-It's important to remember to not get lost in the FUD that can arise admidst all the legal language and that sometimes the simplest explanation is to trust that with any Creative Commons license you can 'use'the resource.  The basic act of copying (which technology allows very easily) is the foundation of the licenses.
+#### Things to be mindful of
 
 - You can negotiate your publishing contracts.
- - A great resource before you choose a journal to publish in is "[Think. Check. Submit.](https://thinkchecksubmit.org/)"
- - the Universities of the Big 10 Academic Alliance have created an Addendum that authors can use when negotiating with their publisher.  This addendum works to preserve rights that academic authors commonly wish to keep, all of which look towards removing restrictions from the flow of information and allowing a freer exchange of ideas. [OSU](https://library.osu.edu/blogs/copyright/2016/11/14/negotiate/
-  - https://sparcopen.org/our-work/author-rights/brochure-html/
+  - [Sample Addendum](https://library.osu.edu/blogs/copyright/2016/11/14/negotiate/) from the universities of the Big 10 Academic Alliance. This addendum works to preserve rights that faculty authors commonly wish to keep.
+- A great resource before you choose a journal to publish in is "[Think. Check. Submit.](https://thinkchecksubmit.org/)". It is also a great resource to share with your faculty.
+- [Shareable brochure on author rights](https://sparcopen.org/our-work/author-rights/brochure-html/) from Sparc
 - You faculty contract is negotiated periodically. Find out when yours is next.  Get involved.
-
-http://www.lib.berkeley.edu/scholarly-communication/publishing/copyright/managing-copyrights
+- Fantastic resource for faculty new to scholarly communication in general is from [Berkeley](http://www.lib.berkeley.edu/scholarly-communication/publishing/copyright/managing-copyrights)
 
 ![placards proclaiming the importance of copyright awareness](https://lh3.googleusercontent.com/hNu-EP8LjVNg5TDHGE2ivKhS41LignR1JfCaadixSSAlXtSnN-YsdGpOa3kUtcIXApupueQ3Tc1q2mCQtVu6sSilRGzhQ2v6z_dzbJutC_lBtv0QUv45ZgJBJyy3O96sTh-l7jnJu1aIADunvA)
-![Creative Commons icon](creativecommons.png)
 
-# Extra Images
-
-<a href="https://commons.wikimedia.org/wiki/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg#/media/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/WPA_Art_Poster%2C_Work_Promotes_Confidence.jpeg" alt="WPA Art Poster, Work Promotes Confidence.jpeg" width="220" height="320" style="float:left;"></a>This image is available from the United States Library of Congress's <a href="http://www.loc.gov/rr/print/">Prints and Photographs division</a> under the digital ID <a rel="nofollow" class="external text" href="http://hdl.loc.gov/loc.pnp/cph.3b48918">cph.3b48918</a>. Public Domain.
+___
+![Creative Commons icon](creativecommons.png) 2018 | Roe McKernan | [Creative Commons Certification Assignment 4](https://github.com/WhatLibrarian/Presentations/blob/master/CertificateCC/Mod4/ccmod4.md)
