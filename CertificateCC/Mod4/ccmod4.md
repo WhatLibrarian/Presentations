@@ -38,16 +38,16 @@ The following graphic is a visual depiction of the confusion surrounding how peo
 
 <a href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="100%" height="auto" alt="Copyright, contracts, confusion"></a></br>"Copyright, contracts, confusion" by Giulia Forsythe, via Flickr. November 26, 2012.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) Universal Public Domain Dedication.
 
-Enthousiastically share the good news! ![men shouting](shoutingEFF.png)
+Enthousiastically share the good news! ![men shouting](shoutingEFF.PNG)
 
-from [EFF](https://www.eff.org/files/banner_library/EFF-work-icons.png)  [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+from [EFF](https://www.eff.org/files/banner_library/EFF-work-icons.PNG)  [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
 
 
 
 
 This image from a foter.com [inforgraphic](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg) [CC BY NC 3.0]
 
-![Baseline for Creative Commonns Licenses](baselinefooter.png) CC-BY-SA-3.0 by [Foter](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg) is a great image to use in slide presentation or as an office poster.
+![Baseline for Creative Commonns Licenses](baselinefooter.PNG) CC-BY-SA-3.0 by [Foter](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg) is a great image to use in slide presentation or as an office poster.
 
 
 ---
