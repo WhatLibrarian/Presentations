@@ -18,11 +18,13 @@ ___
 
 This challenge is not about any particular issue, but about how to speak to the different type of audiences on your campus.
 
-This short video by COMMpadres Media includes topics such as the importance and types of audience analysis, and methods for gathering information for audience analysis. [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+This short video by COMMpadres Media includes topics such as the importance and types of audience analysis, and methods for gathering information for audience analysis.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Hfue7l-WuJ4/0.jpg)](https://www.youtube-nocookie.com/embed/Hfue7l-WuJ4?rel=0)
+[<figure><img src="https://img.youtube.com/vi/Hfue7l-WuJ4/0.jpg" alt="Link to YouTube video about choosing your audience"/>](https://www.youtube-nocookie.com/embed/Hfue7l-WuJ4?rel=0)
+  <figcaption>[Creative Commons Attribution License 3.0](https://creativecommons.org/licenses/by/3.0/)</figcaption>
+</figure>
 
-There are many resources available to increase your skills as a communicator. If you are the sole campus resource for Open Educational Resources and the Creative Commons licenses they rely on, please be thoughful of your audiences' need and the value proposition Creative Commons represents to your institution.
+There are many resources available to increase your skills as a communicator. If you are the sole campus resource for Open Educational Resources and the Creative Commons licenses they rely on, please be thoughfull of your audiences' need and the value proposition Creative Commons represents to your institution.
 
 ---
 
@@ -36,23 +38,30 @@ The following graphic is a visual depiction of the confusion surrounding how peo
 
 <a href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="100%" height="auto" alt="Copyright, contracts, confusion"></a></br>"Copyright, contracts, confusion" by Giulia Forsythe, via Flickr. November 26, 2012.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) Universal Public Domain Dedication.
 
-Enthousiastically share the good news.
+Enthousiastically share the good news! ![men shouting](shoutingEFF.png)
 
-![Baseline for Creative Commonns Licenses](baselinefooter.png) CC-BY-SA-3.0 by [Foter](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg)
-![men shouting](shoutingEFF.png) from [EFF](https://www.eff.org/files/banner_library/EFF-work-icons.png)  [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+from [EFF](https://www.eff.org/files/banner_library/EFF-work-icons.png)  [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/us/)
+
+
+
+
+This image from a foter.com [inforgraphic](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg) [CC BY NC 3.0]
+
+![Baseline for Creative Commonns Licenses](baselinefooter.png) CC-BY-SA-3.0 by [Foter](https://i.amz.mshcdn.com/G2VmSDN0Zbcf8JHQQyxgAs9f_P0=/2012%2F12%2F08%2Fdd%2FCCinfograph.jIz.jpg) is a great image to use in slide presentation or as an office poster.
+
 
 ---
 
-## Scholarly Communication & Faculty Contracts
+## Scholarly Communication & Contracts
 ### (P.S. Work for Hire)
 
-This is where the rubber is going to hit the road at your institution.  Its going to be very important to read and assess the contract that governs faculty work where you are.
+A corallery to what can I use is encouraging faculty to share the work they have created. This is where the rubber is going to hit the road at your institution.  Its going to be very important to read and assess the contract that governs faculty work where you are.
+
+1. Grant Contracts
+2. Faculty Contracts
+3. Federal and/or state 'Work for Hire' laws
 
 There is also the federal 'Work for Hire' [17 U.S.C. § 101](https://www.copyright.gov/circs/circ30.pdf) that governs works created during employment.
-
-
-
-<a href="https://commons.wikimedia.org/wiki/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg#/media/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/WPA_Art_Poster%2C_Work_Promotes_Confidence.jpeg" alt="WPA Art Poster, Work Promotes Confidence.jpeg" width="220" height="320" style="float:left;"></a>This image is available from the United States Library of Congress's <a href="http://www.loc.gov/rr/print/">Prints and Photographs division</a> under the digital ID <a rel="nofollow" class="external text" href="http://hdl.loc.gov/loc.pnp/cph.3b48918">cph.3b48918</a>. Public Domain.
 
 It's important to remember to not get lost in the FUD that can arise admidst all the legal language and that sometimes the simplest explanation is to trust that with any Creative Commons license you can 'use'the resource.  The basic act of copying (which technology allows very easily) is the foundation of the licenses.
 
@@ -64,4 +73,9 @@ It's important to remember to not get lost in the FUD that can arise admidst all
 
 http://www.lib.berkeley.edu/scholarly-communication/publishing/copyright/managing-copyrights
 
+![Creative Commons icon](creativecommons.png)
 ![placards proclaiming the importance of copyright awareness](https://lh3.googleusercontent.com/hNu-EP8LjVNg5TDHGE2ivKhS41LignR1JfCaadixSSAlXtSnN-YsdGpOa3kUtcIXApupueQ3Tc1q2mCQtVu6sSilRGzhQ2v6z_dzbJutC_lBtv0QUv45ZgJBJyy3O96sTh-l7jnJu1aIADunvA)
+
+# Extra Images
+
+<a href="https://commons.wikimedia.org/wiki/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg#/media/File:WPA_Art_Poster,_Work_Promotes_Confidence.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/WPA_Art_Poster%2C_Work_Promotes_Confidence.jpeg" alt="WPA Art Poster, Work Promotes Confidence.jpeg" width="220" height="320" style="float:left;"></a>This image is available from the United States Library of Congress's <a href="http://www.loc.gov/rr/print/">Prints and Photographs division</a> under the digital ID <a rel="nofollow" class="external text" href="http://hdl.loc.gov/loc.pnp/cph.3b48918">cph.3b48918</a>. Public Domain.
