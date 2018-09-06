@@ -38,7 +38,9 @@ The following graphic is a visual depiction of the confusion surrounding how fac
 
 <figure><a href="https://www.flickr.com/photos/gforsythe/8220702171/in/photostream/" title="Copyright, contracts, confusion"><img src="https://farm9.staticflickr.com/8057/8220702171_5bbb7a1ff9_c.jpg" width="100%" height="auto" alt="Copyright, contracts, confusion"></a><figcaption>"Copyright, contracts, confusion" by Giulia Forsythe, via Flickr. November 26, 2012.  [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) Universal Public Domain Dedication.</figcaption></figure>
 </br></br>
-**Enthusiastically shout the good news!**  ![men shouting](shoutingEFF.PNG)
+**Enthusiastically shout the good news!**  
+![men shouting](shoutingEFF.PNG)
+
 *Above image from the [Electronic Frontier Foundation](https://www.eff.org/files/banner_library/EFF-work-icons.PNG).   [Creative Commons Attribution License 3.0](http://creativecommons.org/licenses/by/3.0/us/)*
 
 That the **Creative Commons** license allows at its most basic level the ability to make and distribute copies.  It's important to remember to not get lost in the FUD that can arise amidst the legal and technical language and that sometimes the simplest message is to trust that with any Creative Commons license you can 'use' the resource.  The basic act of copying (which technology allows very easily) is the foundation of the licenses.
