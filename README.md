@@ -1,3 +1,3 @@
-# Presentation List
+# ABOUT
 
-[Festival of Learning 2018](https://gitpitch.com/WhatLibrarian/Presentations/fol18)
+This is a public archive of presentations/projects/reports
