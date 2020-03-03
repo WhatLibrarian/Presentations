@@ -13,6 +13,5 @@ anchors:
     active: false
 ---
 
-      <p>Latest Three Presentations<br/></p>
-
+      
       
