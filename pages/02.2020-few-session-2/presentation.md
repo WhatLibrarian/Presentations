@@ -6,8 +6,4 @@ show_sidebar: true
 hide_git_sync_repo_link: false
 ---
 
-      <h3 id="header-dbc0e75b-6841-6dd2-b633-32671254704f">Slide 1<br/></h3>
-<hr/><p>Slide 2</p>
-<p></p>
-
-      
+## Not sure what this is.  How to create a deck
