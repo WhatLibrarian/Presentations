@@ -16,3 +16,5 @@ anchors:
 ---
 
 # Welcome, come browse my latest publications.
+
+[presentation="presentations/"]
